@@ -1,0 +1,175 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- HTML+CSS based on Skeleton: http://getskeleton.com/ -->
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Rustin Partow</title>
+  <meta name="description" content="Rustin Partow's personal webpage">
+  <meta name="author" content="Rustin Partow">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– 
+  <link rel="icon" type="image/png" href="/images/favicon.png"> -->
+		
+   <style>
+	.hidelink { color: #222; text-decoration: none; }
+	
+   </style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128945888-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-128945888-1');
+</script>
+
+	
+	
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+
+    <div class="row" style="margin-top: 5%">
+      <div class="seven columns">
+        <h1>Rustin Partow</h1>
+        <h5><!--Ph.D. Candidate <br> -->
+          <a class="hidelink" href="http://economics.ucla.edu">Economics Department</a> <br>
+          University of California, Los Angeles</a>
+        </h5>
+        <p>
+          <b>Contact</b>: 
+          rjpartow at ucla.edu 
+          <br> <b>CV</b>:
+          <a class="hidelink" href="files/CV_JM.pdf">PDF</a>
+        </p>
+      </div>
+      <div class="five columns">
+        <img src="images/avatar.jpg" alt="Rustin Partow" width="60%">
+      </div>      
+    </div>
+
+    <div class="row">
+      <div class="twelve columns" style="margin-top: 0%">
+        <h5>About me</h5> 
+       <p> I am a doctoral candidate at the UCLA Economics Department. I am a labor economist with an emphasis on dynamic interactions between workers and firms. I am on the market in 2019/20.<p>
+        </p>
+
+        <h5>Job Market Paper</h5>
+        <ul> Coming Soon!
+            <!-- <li> 
+              <a class="hidelink" href="files/intrafirm_jmp.pdf"><strong>Intra-Firm Technology Adoption under Network Effects: Evidence from the Movie Industry</strong> <i>[PDF]</i></a> 
+              <br>  -->
+            
+		<p align="justify"> This paper uses novel longitudinal data to show that the careers of US lawyers tend to exhibit mobility down the industry heirarchy. I argue that downward mobility is a symptom of an assymetric information problem
+    caused by private employer learning. I present a model of dynamic labor market matching with private learning and two-sided heterogeneity. Private learning creates lopsided mobility, in which low-ranked firms frequently poach lawyers from high-ranked firms, but not vice-versa.
+    The reason is that, in the event that a low-ranked firm acquires a star employee, there is no mechanism by which the high-ranked firms can identify her.
+    For star employees, the gains of working at high-ranked firms are very large, but the only way to arrive at a high-ranked firm is to start there. To avoid missing out
+    on a chance for super-star earnings, lawyers are forced to target initial over-placement, relative to a setting with full information.
+		<!-- <p align="justify"> loyer learning. I present a model of dynamic labor market matching with private learning and two-sided heterogeneity. Private learning creates lopsided mobility, in which low-ranked firms frequently poach lawyers from high-ranked firms, but not vice-versa.
+    The reason is that, in the event that a low-ranked firm acquires a star employee, there is no mechanism by which the high-ranked firms can identify her.
+    For star employees, the gains of working at high-ranked firms are very large, but the only way to arrive at a high-ranked firm is to start there. To avoid missing out
+    on a chance for super-star earnings, lawyers are forced to target initial over-placement, relative to a setting with full information. <p> --> 
+	</li>
+
+            
+        </ul>
+
+        <h5>Working papers</h5>
+        <ul> 
+        Coming soon!
+        <!--
+            <li> 
+              <a class="hidelink" href="files/UmbrellaDamages.pdf"><strong>A Study of Umbrella Damages from Bid-Rigging</strong> <i>[PDF]</i></a> 
+              <br> 
+		    <p align="justify">   When non-cartel firms adjust their pricing to the supra-competitive level sustained by a cartel, purchasers from non-cartel firms might suffer "umbrella" damages. This is in particular the case for contracts awarded via first-price procurement auctions. This paper examines the bidding behavior of non-cartel firms bidding against the Texas school milk cartel between 1980 and 1992. Evidence is found that the largest non-cartel firm bid significantly higher when facing the cartel. Structural estimation of damages and inefficiencies due to the cartel agreement reveals that per contract: (1) damages from non-cartel firms overbidding are at least 47% of damages caused by the cartel, (2) when the outcome of the auction is inefficient, damages due to misallocation amount to 64% of cartel damages. Finally, inefficiencies raise the winner's cost by 3.7%. These results shed light on the potential importance of umbrella damages from a civil liability perspective. <p> 
+            </li>
+        ->
+	    
+
+	    
+            
+        </ul>
+
+	<h5>Work in progress</h5>
+        <ul>
+        Coming soon!
+<!--		
+		<li> 
+              <strong>Small-Business Set-Asides and Participation in Procurement Auctions</strong> 
+              <br> with Renato Giroldo and Claudio Lucinda 
+            </li>
+		
+		<li> 
+              <strong>Long-Term Contracts and Strategic Entry Deterrence</strong> 
+              
+            </li>
+		
+	    <li> 
+              <strong>Overconfidence and Preemptive Investment</strong> <i>[2nd year paper]</i>
+              <br> 
+		    <p align="justify"> Overconfidence is a widely documented personality trait among top managers, with significant effects on corporate decision-making. This paper investigates its effect on the timing of investment by integrating a real options model of investment into a competitive framework with first-mover advantages. The game reflects situations in which competitors have to time technology adoption or new market entry. I find that the overconfident manager always preempts her rational competitor by commiting to follow shortly after being preempted, reducing her rival's incentive to preempt. Under mild levels of overconfidence, firm value increases (relative to the symmetric rational case), but too much overconfidence can be detrimental as the manager erodes the value of waiting. <p>
+		    <!-- <p align="justify">   Overconfidence is a widely documented personality trait among top managers, with significant effects on corporate decision-making. This paper investigates its effect on the timing of investment by integrating a real options model of investment into a competitive framework with first-mover advantages. The game reflects situations in which competitors have to time technology adoption or new market entry. I find that the overconfident manager always preempts her rational competitor by commiting to follow shortly after being preempted, reducing her rival's incentive to preempt. Under mild levels of overconfidence, firm value increases (relative to the symmetric rational case), but too much overconfidence can be detrimental as the manager erodes the value of waiting. <p> -->
+            </li>
+
+
+            
+            
+        </ul>
+-->
+
+
+      </div>
+    </div>
+  </div>
+
+<!-- <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85658821-1', 'auto');
+  ga('send', 'pageview');
+
+</script> -->
+<script type="text/javascript">
+var sc_project=11465463;
+var sc_invisible=1;
+var sc_security="4772d96d";
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="http://statcounter.com/" target="_blank"><img class="statcounter"
+src="//c.statcounter.com/11465463/0/4772d96d/1/" alt="Web
+Analytics"></a></div></noscript>
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
+
